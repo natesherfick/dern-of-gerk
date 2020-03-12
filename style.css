@@ -1,0 +1,30 @@
+.darkish{
+  background-color: #222;
+}
+
+.darkish-border{
+  border-bottom: solid;
+  border-color: #444;
+}
+
+.brandish-font{
+  font-family: 'Bungee', cursive;
+}
+
+.sansish-font{
+  font-family: 'Poppins', sans-serif;
+}
+
+.serifish-font{
+  font-family: 'PT Serif', serif;
+}
+
+.box{
+  height: 2000px;
+  width: 10px;
+}
+
+.bg-xbox{
+  background-image: url('https://gamelust.com/wp-content/uploads/2019/06/double-fine-productions-xbox-e3-2019.jpg');
+  height: 80vh;
+}
